@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Albin K Roby](https://github.com/albinkroby/)!
+# Hi there 👋,
 🌟 **Aspiring Full Stack Developer | Tech Enthusiast | Lifelong Learner** 🌟  
 🚀 Passionate about creating impactful solutions through code.
 
