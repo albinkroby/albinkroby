@@ -38,7 +38,7 @@
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=albinkroby&theme=radical&no-frame=true&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=albinkroby&theme=radical&no-frame=true&margin-w=30&margin-h=15)
 
 ---
 
